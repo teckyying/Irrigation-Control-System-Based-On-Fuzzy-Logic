@@ -5,4 +5,4 @@ The main objective of this assignment is to implement a Fuzzy Inference System (
 - Expert Systems
 - Recommendation Systems
 - Control Systems
-= Fuzzy Classifier
+- Fuzzy Classifier
